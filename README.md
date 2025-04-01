@@ -5,10 +5,7 @@
 ### 🌱 Recientemente he acabado un curso de Python el cual he fortalecido y ampliado conocimientos con otras formaciones en análisis de datos, representación de los mismos y machine learning.
 
 
-<!---
-MiNSp4iN/MiNSp4iN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiNSp4iN&show_icons=true&theme=dark&count_private=true&hide=stars,issues)
 
 [![LinkedIn](https://img.shields.io/badge/-Moisés_Illanes_Nieto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mois%C3%A9s-illanes-nieto-bb97b9128/)
 [![Email](https://img.shields.io/badge/millanesnieto@hotmail.com-white?style=flat&logo=gmail)](mailto:millanesnieto@hotmail.com)
