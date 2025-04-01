@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![LinkedIn](https://img.shields.io/badge/-Moisés_Illanes_Nieto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mois%C3%A9s-illanes-nieto-bb97b9128/)
-[![Email](https://img.shields.io/badge/millanesnieto@hotmail.com-blue?style=flat&logo=gmail)](mailto:millanesnieto@hotmail.com)
+[![Email](https://img.shields.io/badge/millanesnieto@hotmail.com-red?style=flat&logo=gmail)](mailto:millanesnieto@hotmail.com)
