@@ -11,4 +11,4 @@
 MiNSp4iN/MiNSp4iN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![] (D:/Datos/Curso Udemy Data Science/imagenwebps.webp")
+![](D:\Datos\Curso Udemy Data Science\imagenwebps.webp)
