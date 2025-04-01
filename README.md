@@ -5,7 +5,7 @@
 
 # 💻 Habilidades:  
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow)  
-- Análisis y visualización de datos  
+- Análisis y visualización de datos (POWER BI) 
 - Machine Learning  
 - Web Scraping  
 - SQL y bases de datos  
