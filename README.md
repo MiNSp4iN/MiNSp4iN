@@ -9,5 +9,5 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiNSp4iN&show_icons=true&theme=dark&count_private=true&hide=stars,issues)
 
 ### Contactos
-[![LinkedIn](https://img.shields.io/badge/-Moisés_Illanes_Nieto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-illanes-nieto-bb97b9128/)
+[![LinkedIn](https://img.shields.io/badge/-Moisés_Illanes_Nieto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mois%C3%A9s-illanes-nieto-bb97b9128/)
 [![Email](https://img.shields.io/badge/millanesnieto@hotmail.com-white?style=flat&logo=gmail)](mailto:millanesnieto@hotmail.com)
