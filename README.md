@@ -1,4 +1,4 @@
-# 👋 Hola a todos! Soy Moisés, bienvenidos a mi perfil de Github!
+# 👋 Hola a todos! Soy Moisés,  bienvenidos a mi perfil de Github! Sociólogo, Data Analyst & Web Developer (PYTHON)
 ## Aquí podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando.
   ![](https://www.ucatalunya.edu.co/img/blog/herramientas-de-analisis-de-datos.jpg)
 ### 👀 Estoy interesado en trabajar con bases de datos, analizarlas, extraer información clave de ellas, también me atrae mucho el desarrollo web.
