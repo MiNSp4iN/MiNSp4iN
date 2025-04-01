@@ -1,4 +1,4 @@
-# 👋 Hola a todos! Soy Moisés,  bienvenidos a mi perfil de Github! ### Sociólogo, Data Analyst & Web Developer (PYTHON)
+# 👋 Hola a todos! Soy Moisés,  bienvenidos a mi perfil de Github! Sociólogo, Data Analyst & Web Developer (PYTHON)
 ## Aquí podrás encontrar todo el código que he ido aprendiendo y proyectos en los que estoy trabajando.
   ![](https://www.ucatalunya.edu.co/img/blog/herramientas-de-analisis-de-datos.jpg)
 ### 👀 Estoy interesado en trabajar con bases de datos, analizarlas, extraer información clave de ellas, también me atrae mucho el desarrollo web.
@@ -9,5 +9,5 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiNSp4iN&show_icons=true&theme=dark&count_private=true&hide=stars,issues)
 
 ### Contactos
-[![LinkedIn](https://img.shields.io/badge/-Moisés_Illanes_Nieto-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-illanes-nieto-bb97b9128/)
+[![LinkedIn](https://img.shields.io/badge/-Moisés_Illanes_Nieto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mois%C3%A9s-illanes-nieto-bb97b9128/)
 [![Email](https://img.shields.io/badge/millanesnieto@hotmail.com-white?style=flat&logo=gmail)](mailto:millanesnieto@hotmail.com)
