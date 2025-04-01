@@ -1,7 +1,7 @@
 # 👋 Hola a todos! Soy Moisés,  bienvenidos a mi perfil de Github!
+  ![](https://www.ucatalunya.edu.co/img/blog/herramientas-de-analisis-de-datos.jpg)
 ### 🎓 Sociólogo y Analista de Datos especializado en Python, con interés en el análisis de datos, la identificación de tendencias y la extracción de conclusiones valiosas a partir de la información.
 ### 📊 Apasionado por convertir datos en conocimiento útil para la toma de decisiones.  
-  ![](https://www.ucatalunya.edu.co/img/blog/herramientas-de-analisis-de-datos.jpg)
 
 # 💻 Habilidades:  
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow)  
